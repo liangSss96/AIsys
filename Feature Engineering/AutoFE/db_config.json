@@ -1,0 +1,8 @@
+{
+  "host": "",
+  "user": "",
+  "password": "",
+  "db": "dispatch_data_analyze",
+  "charset": "utf8",
+  "port": 3306
+}
