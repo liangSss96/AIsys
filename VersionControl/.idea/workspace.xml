@@ -26,29 +26,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.kkk">
-    <configuration name="GlobalVar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="temp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\10446\Desktop\temp\GlobalVar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sdsd">
     <configuration name="VersionControl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="temp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +92,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sdsd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdsd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="temps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="temp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kkk" />
-        <item itemvalue="Python.temps" />
+        <item itemvalue="Python.sdsd" />
         <item itemvalue="Python.h" />
+        <item itemvalue="Python.temps" />
+        <item itemvalue="Python.kkk" />
         <item itemvalue="Python.VersionControl" />
-        <item itemvalue="Python.GlobalVar" />
       </list>
     </recent_temporary>
   </component>
@@ -182,31 +181,34 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582251418761">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583463188998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582251418761" />
-    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1581734400691">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583463188998" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1582957723015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581734400691" />
-    <state width="1515" height="197" key="GridCell.Tab.0.bottom" timestamp="1582620334611">
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582957723015" />
+    <state width="1515" height="168" key="GridCell.Tab.0.bottom" timestamp="1584099312329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582620334611" />
-    <state width="1515" height="197" key="GridCell.Tab.0.center" timestamp="1582620334611">
+    <state width="1515" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584099312329" />
+    <state width="1515" height="168" key="GridCell.Tab.0.center" timestamp="1584099312329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582620334611" />
-    <state width="1515" height="197" key="GridCell.Tab.0.left" timestamp="1582620334611">
+    <state width="1515" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584099312329" />
+    <state width="1515" height="168" key="GridCell.Tab.0.left" timestamp="1584099312329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582620334611" />
-    <state width="1515" height="197" key="GridCell.Tab.0.right" timestamp="1582620334611">
+    <state width="1515" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584099312329" />
+    <state width="1515" height="168" key="GridCell.Tab.0.right" timestamp="1584099312329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582620334611" />
+    <state width="1515" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584099312329" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1581923877325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -223,18 +225,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581923877325" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1581734736102">
+    <state x="270" y="54" key="SettingsEditor" timestamp="1583499167026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581734736102" />
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583499167026" />
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581734370381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581734370381" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582619491996">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583931635337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582619491996" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583931635337" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

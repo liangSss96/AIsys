@@ -18,7 +18,7 @@ class global_nums:
             else:
                 num = data.iloc[-1]['Vno'] + 1
         else:
-            data = pd.DataFrame(columns=['Vno', 'train', 'test', 'Validation', 'Function', 'Param', 'mse', 'R2'])
+            data = pd.DataFrame(columns=['create_time', 'Vno', 'train', 'test', 'Validation', 'Function', 'Param', 'mse'])
             data.to_csv('vs.csv', index=False)
             num = 0
         return [num, data]
